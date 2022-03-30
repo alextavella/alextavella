@@ -1,4 +1,7 @@
-### Olá! Eu sou o Alex Tavella 👋
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">Senior Software Engineer at Azos</h3>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/alextavella">
