@@ -24,7 +24,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/alextavella/alextavella/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/alextavella/alextavella/output/github-snake-dark.svg)
 
 <!--
 **alextavella/alextavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
