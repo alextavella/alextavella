@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Senior Software Engineer at Azos</h3>
+<h3 align="center">Staff Engineer at Azos</h3>
 
 <br>
 
