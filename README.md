@@ -4,9 +4,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/alextavella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextavella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextavella&layout=compact&langs_count=8&theme=dark"/>
+  <a href="https://g
+  ithub.com/alextavella">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextavella&theme=dark&show_icons=true&hide_border=true&count_private=true" /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alextavella&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextavella&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br>
