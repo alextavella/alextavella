@@ -2,12 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/alextavella">
-    <img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-  </a>
-
-  <p>Currently, I'm working with Next.js, NodeJS and Golang;</p>
+  <p>Currently, I'm working with Golang, Node.js and Next.js;</p>
 
   <a href="https://github.com/alextavella">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextavella&theme=dark&show_icons=true&hide_border=true&count_private=true" />
