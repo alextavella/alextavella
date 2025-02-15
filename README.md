@@ -1,51 +1,34 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Software Engineer</h3>
+<h1>Hi 👋, What's up?</h1>
 
-<div align="center">
+<p>I'm Alex, Software Engineer. Enthusiatic about cryptocurrency. Working with Full-Stack Development and DevOps.</p>
 
-  <a href="https://www.linkedin.com/in/alextavella">
-    <img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-  </a>
+<p>👨🏼‍💻💻 Currently, I'm working with Golang, Node.js, Next.js, React and React Native</p>
 
-  <p>Currently, I'm working with Next.js, NodeJS and Golang;</p>
+<h2>About me</h2>
 
-  <a href="https://github.com/alextavella">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextavella&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextavella&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-</div>
+<p>
+I'm a Senior Full Stack Developer with solid experience in developing scalable and performant applications.
+I have worked on defining robust architectures, optimizing processes and implementing good development practices to ensure high quality and efficiency in solutions.
+</p>
 
-<br>
+<h2>Tech and Tools</h2>
 
-<!-- Icons: https://github.com/devicons/devicon/tree/master/icons -->
-
-<div align="center" style="display: inline_block">
+<div style="display: flex;">
   <img alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <!-- <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <!-- <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/alextavella/alextavella/output/github-snake-dark.svg)
+<h2>Contact</h2>
 
-<!--
-**alextavella/alextavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/alextavella">
+  <img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
