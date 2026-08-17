@@ -8,7 +8,7 @@
 
 I have spent more than two decades designing, shipping, and operating software—from early web and APIs to today’s cloud-native stacks. I combine that depth with entrepreneurship: **products and platforms** that solve real problems, built with the same rigor I bring to architecture, reliability, and delivery.
 
-*Stack I lean on today:* **Go**, **Node.js**, **Next.js**, **React**, and **React Native**—plus **GCP**, **Terraform**, and **NestJS** when the problem calls for them.
+*Stack I lean on today:* **Go**, **Node.js**, **Next.js**, **React**, and **React Native** - plus **GCP**, **Terraform**, and **NestJS** when the problem calls for them.
 
 <br>
 
@@ -49,7 +49,6 @@ I have spent more than two decades designing, shipping, and operating software�
 ## Projects
 
 - [🍽️ **Nhammy**](https://nhammy.app.br)
-- [🫱🏼‍🫲🏽 **Handshake**](https://handshake.app.br)
 
 
 ---
